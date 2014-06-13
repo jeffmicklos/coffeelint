@@ -1,0 +1,4 @@
+-   id: coffeelint
+    name: coffeelint
+    entry: coffeelint
+    files: \.coffee
